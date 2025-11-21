@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
       inputs:
         package_name:
-          description: "com.blackpanther.ninjaarashi2"
+          description: "Tên gói ứng dụng"
           required: true
 
 jobs:
